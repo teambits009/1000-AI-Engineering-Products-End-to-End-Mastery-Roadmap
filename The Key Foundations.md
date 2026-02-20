@@ -11,7 +11,7 @@ Understand why models work.
 * Statistics (bias, variance, hypothesis testing)
 * Optimization (gradient descent, convexity)
 * Information theory (entropy, KL divergence)
-
+...
 If you cannot explain how gradient descent updates parameters or why overfitting happens, you are not operating at engineering depth.
 
 ---
