@@ -4,7 +4,7 @@ Production-grade systems. Built, deployed, monitored, monetized.
 Structured across 4 quarters (250 each).
 Every product is **end-to-end**: data → model → API → UI → deployment → monitoring → security → billing.
 
----
+----
 
 # Q1 — Core AI Infrastructure (1–250)
 
